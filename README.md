@@ -12,4 +12,4 @@
 ## Team members
 
 - Eman Alabsi
-- Amal Sattari
+- Amal Alsattari
