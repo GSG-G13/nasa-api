@@ -4,10 +4,10 @@
 
 ## Technologies used:
 
--HTML
--CSS
--JS
--APIs
+- HTML
+- CSS
+- JS
+- APIs
 
 ## Team members
 
